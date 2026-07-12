@@ -12,11 +12,11 @@ export default function Header() {
 
         <NavLink to="/math">Math life</NavLink>
 
-        <NavLink to="/software">Software development experience</NavLink>
+        <NavLink to="/software">Programming</NavLink>
 
-        <NavLink to="/teaching">Teaching experience</NavLink>
+        <NavLink to="/teaching">Teaching</NavLink>
 
-        <NavLink to="/activities">Other activities</NavLink>
+        <NavLink to="/activities">Other</NavLink>
 
       </nav>
 

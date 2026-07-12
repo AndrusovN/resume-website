@@ -5,15 +5,16 @@ I do research in fields of algebraic geometry: in toric geometry and arithmetic 
 - [Mixed hodge structures in cohomology of moment-angle complexes (in Russian)](/assets/MHS_thesis.pdf) - my bachelor thesis
 
 ## Talks on conferences and seminars
-- Inter-department seminar ''Practice in mathematics'' (MIPT). [Canonical hulls of integer polyhedrons in 3D](https://youtu.be/ROpIODK9_2M?si=kKk6w-FAXNLRCrUN), [Toric varieties](https://youtu.be/U06VTbq_SQg?si=GfyghloPmhDfGiGt), Computational search of points on an elliptic curve over a finite field;
-- Seminar on arithmetic geometry (MI-RAS). Reduction of elliptic curves modulo $p$. [First part](https://www.mathnet.ru/php/seminars.phtml?presentid=44235&option_lang=eng), [Second part](https://www.mathnet.ru/php/seminars.phtml?presentid=44293&option_lang=eng);
-- Seminar on modern algebraic geometry (MIPT). [Algebraic $K$-theory and Milnor $K$-theory](https://thematdev.org/mag_seminar/index.html);
-- Mini-conference of scientific club of SAMCS MIPT. [Faddeev curves and their Newton triangles](https://t.me/sciencefpmi/25);
-- Seminar on birational geometry (MI-RAS). [Prym varieties of coverings of hyperelliptic curves are sums of Jacobians](https://www.mathnet.ru/php/seminars.phtml?presentid=47841&option_lang=rus);
-- 68-th MIPT conference. Distortion maps for elliptic curves over finite fields;
-- Seminar ''Constructive Hodge theory'' (MIPT). Mixed Hodge structures in cohomology of moment-angle complexes;
-- Seminar on birational geometry (MI-RAS). [Insufficiency of intermediate Jacobian as an obstruction to rationality](https://www.mathnet.ru/php/seminars.phtml?presentid=50222&option_lang=eng);
-- Spring Algeuler 2026 (Saint Petersburg State University). [Crepant resolutions of some toric factor-singularities](https://matthewmagin.github.io/pdfs/publications/2026/algeuler.pdf).
+- Inter-department seminar ''Practice in mathematics'' (MIPT). [Canonical hulls of integer polyhedrons in 3D](https://youtu.be/ROpIODK9_2M?si=kKk6w-FAXNLRCrUN), 2023, [Toric varieties](https://youtu.be/U06VTbq_SQg?si=GfyghloPmhDfGiGt), 2023, Computational search of points on an elliptic curve over a finite field, 2024;
+- Seminar on arithmetic geometry (MI-RAS). Reduction of elliptic curves modulo p, 2024. [First part](https://www.mathnet.ru/php/seminars.phtml?presentid=44235&option_lang=eng), [Second part](https://www.mathnet.ru/php/seminars.phtml?presentid=44293&option_lang=eng);
+- Seminar on modern algebraic geometry (MIPT). [Algebraic K-theory and Milnor K-theory](https://thematdev.org/mag_seminar/index.html), 2025;
+- Mini-conference of scientific club of SAMCS MIPT. [Faddeev curves and their Newton triangles](https://t.me/sciencefpmi/25), 2025;
+- Seminar on birational geometry (MI-RAS). [Prym varieties of coverings of hyperelliptic curves are sums of Jacobians](https://www.mathnet.ru/php/seminars.phtml?presentid=47841&option_lang=rus), 2025;
+- Additional topics in cryptography (MIPT). Bilinear groups in cryptography arising from elliptic curves, 2026;
+- 68-th MIPT conference. Distortion maps for elliptic curves over finite fields, 2026;
+- Seminar ''Constructive Hodge theory'' (MIPT). Mixed Hodge structures in cohomology of moment-angle complexes, 2026;
+- Seminar on birational geometry (MI-RAS). [Insufficiency of intermediate Jacobian as an obstruction to rationality](https://www.mathnet.ru/php/seminars.phtml?presentid=50222&option_lang=eng), 2026;
+- Spring Algeuler (Saint Petersburg State University). [Crepant resolutions of some toric factor-singularities](https://matthewmagin.github.io/pdfs/publications/2026/algeuler.pdf), 2026.
 
 ## Participation in schools
 - Summer school [''Contemporary mathematics''](https://old.mccme.ru//dubna//eng/index.html) (Dubna, Russia) (MI-RAS, MSU, et. al.) in 2021, 2022, 2023 and 2024;
@@ -23,7 +24,24 @@ I do research in fields of algebraic geometry: in toric geometry and arithmetic 
 - Summer MSU topological school [''Spectra and stable homotopy theory''](https://sites.google.com/view/topologyschool2026/) (Moscow, Russia) in 2026.
 
 ## Competitive achievements
-- Awardee on Tournament of Towns in 2022;
-- 3rd place in personal classification and 1st place in team classification (as a member of MIPT team) on Shaposhnikov Russian student olympiad in mathematics, 2024;
-- 3rd place in olympiad ''Frontiers of math'', MIPT, 2026;
-- Certificate of Commendation on Russian olympiad in mathematics 2021 and 2022.
+- [Awardee on Tournament of Towns](/assets/tournament_of_towns.pdf) in 2022;
+- [3rd place in personal classification](/assets/shaposhnikov.pdf) and [1st place in team classification](/assets/shaposhnikov_team.pdf) (as a member of MIPT team) on Shaposhnikov Russian student olympiad in mathematics, 2024;
+- [3rd place in olympiad ''Frontiers of math''](/assets/frontiers_of_math_2026.pdf), MIPT, 2026;
+- Certificate of Commendation on Russian olympiad in mathematics [2021](/assets/certificate_vos_math_2021.pdf) and [2022](/assets/certificate_vos_math.pdf).
+
+## Elective courses I studied
+- Lie groups and algebras (MIPT);
+- Additional topics in cryptography (MIPT);
+- Ring and field theory (MIPT);
+- Commutative algebra (MIPT);
+- Category theory (MIPT);
+- Homological algebra (MIPT);
+- Algebraic topology (MIPT);
+- Characteristic classes ([SkolTech](https://www.skoltech.ru/en/));
+- Bott periodicity and Thom class in K-theory ([MI-RAS](https://mi-ras.ru/index.php?c=main&l=1));
+- Analytic number theory (MIPT)
+- Cryptography on elliptic curves and lattices (MIPT);
+- Moduli spaces of algebraic curves (MIPT)
+- Toric varieties and their applications (MIPT);
+- Variations of Hodge structures (MIPT);
+- Complex geometry of varieties with torus action (MI-RAS);

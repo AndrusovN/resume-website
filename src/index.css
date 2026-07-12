@@ -6,7 +6,7 @@
   --code-bg: #f4f3ec;
   --accent: #460975;
   --accent-bg: rgba(170, 59, 255, 0.1);
-  --accent-border: rgba(42, 4, 71, 0.5);
+  --accent-border: rgba(170, 59, 255, 0.5);
   --social-bg: rgba(244, 243, 236, 0.5);
   --shadow:
     rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
@@ -37,7 +37,7 @@
     --bg: #16171d;
     --border: #2e303a;
     --code-bg: #1f2028;
-    --accent: #21043f;
+    --accent: #c084fc;
     --accent-bg: rgba(192, 132, 252, 0.15);
     --accent-border: rgba(192, 132, 252, 0.5);
     --social-bg: rgba(47, 48, 58, 0.5);
@@ -58,7 +58,7 @@ body {
   width: 1126px;
   max-width: 100%;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
   border-inline: 1px solid var(--border);
   min-height: 100svh;
   display: flex;
@@ -140,7 +140,7 @@ code {
 .header nav a {
     display: inline-block;
 
-    padding: 5px 5px;
+    padding: 10px 10px;
 
     background-color: #2f5aa8;
     color: white;
@@ -149,6 +149,22 @@ code {
     border-radius: 8px;
 
     transition: background-color 0.2s ease;
+}
+
+.content a:link {
+  color:#1f3c88;
+}
+
+.content a:visited {
+  color:#48097a;
+}
+
+.content a:hover {
+  color:#365cbd;
+}
+
+.content a:active {
+  color:#0e255f;
 }
 
 .header nav a:hover {

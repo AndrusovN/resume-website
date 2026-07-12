@@ -1,1 +1,1 @@
-This is a page about other activities
+I like badminton and hiking. This page development is in progress... :)
