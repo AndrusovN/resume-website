@@ -184,7 +184,7 @@ code {
 
 @media (max-width: 768px) {
     .header {
-        height: 30%;
+        height: 35%;
         background-image: url("assets/header_mobile.jpg");
     }
 
@@ -195,6 +195,6 @@ code {
     }
 
     .markdown {
-        padding-top: 55%;   /* slightly larger than the header */
+        padding-top: 70%;   /* slightly larger than the header */
     }
 }
