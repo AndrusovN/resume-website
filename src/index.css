@@ -81,10 +81,10 @@ h2 {
 h1 {
   font-size: 56px;
   letter-spacing: -1.68px;
-  margin: 32px 0;
+  margin: 32px 10px;
   @media (max-width: 1024px) {
     font-size: 36px;
-    margin: 20px 5px;
+    margin: 20px 10px;
   }
 }
 h2 {
@@ -195,6 +195,6 @@ code {
     }
 
     .markdown {
-        padding-top: 70%;   /* slightly larger than the header */
+        padding-top: 100%;   /* slightly larger than the header */
     }
 }
