@@ -55,7 +55,7 @@ body {
 }
 
 #root {
-  width: 1126px;
+  width: 90%;
   max-width: 100%;
   margin: 0 auto;
   text-align: left;
@@ -84,7 +84,7 @@ h1 {
   margin: 32px 0;
   @media (max-width: 1024px) {
     font-size: 36px;
-    margin: 20px 0;
+    margin: 20px 5px;
   }
 }
 h2 {
@@ -137,6 +137,7 @@ code {
     z-index: 1000;
 }
 
+
 .header nav a {
     display: inline-block;
 
@@ -177,5 +178,18 @@ code {
 }
 
 .markdown {
-    padding-top: 25%;   /* slightly larger than the header */
+    padding-top: 26%;   /* slightly larger than the header */
+}
+
+
+@media (max-width: 768px) {
+    .header {
+        height: 15%;
+    }
+
+    .header nav a {
+        display: inline-block;
+
+        padding: 5px 5px;
+    }
 }
