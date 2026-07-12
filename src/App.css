@@ -31,6 +31,12 @@ body {
     gap: 20px;
     flex-wrap: wrap;
 }
+@media (max-height: 500px) {
+    .header nav {
+
+        gap: 5px;
+    }
+}
 
 .header a {
     color: white;
