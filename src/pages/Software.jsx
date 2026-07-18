@@ -1,7 +1,10 @@
 import MarkdownPage from "../components/MarkdownPage";
+import { useTranslation } from "react-i18next";
 
 export default function Software() {
+
+  const { i18n } = useTranslation();
   return (
-    <MarkdownPage file="/markdown/software.md" />
+    <MarkdownPage file={`/markdown/${i18n.language}/software.md`} />
   );
 }

@@ -1,7 +1,9 @@
 import MarkdownPage from "../components/MarkdownPage";
-
+import { useTranslation } from "react-i18next";
 export default function MathLife() {
+
+  const { i18n } = useTranslation();
   return (
-    <MarkdownPage file="/markdown/math-life.md" />
+    <MarkdownPage file={`/markdown/${i18n.language}/math-life.md`}/>
   );
 }
