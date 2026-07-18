@@ -1,0 +1,11 @@
+I have been teaching for over three years. Here is a list of courses and activities I participated in as a teacher:
+- Author and teacher of mini-course on projective geometry for high school students (fall 2022);
+- Teaching assistant for the Sirius research program about aperiodic plane tilings for high school students (spring 2023);
+- Instructor for an elective course for high school students on algebra and number theory (fall 2023, fall 2024);
+- Geometry teacher for Grade 9 students (2023/24);
+- Teacher on elective course for high school students on set theory (spring 2024);
+- Geometry teacher for Grade 7 students (2024/25);
+- Author and teacher of elective course for high school students on theoretical computer science (spring 2025);
+- Research supervisor of high school students' research projects (2023/24, 2024/25, 2025/26);
+- Co-head of the Mathematics Department in ''e-inventor'' structural division of School of Centre for Teaching Excellence (spring 2024, 2024/25);
+- Head of the Mathematics Department in ''e-inventor'' structural division of School of Centre for Teaching Excellence (2025/26).
