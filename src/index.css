@@ -126,7 +126,7 @@ code {
     background-size: cover;
     background-position: center;
 
-    color: rgb(184, 0, 0);
+    color: rgb(255, 255, 255);
 
     display: flex;
     justify-content: space-between;
@@ -201,13 +201,13 @@ code {
 
 .language-select {
     display: flex;
-    gap: 8px;          /* space between buttons */
+    /*gap: 8px;  */        /* space between buttons */
     margin-right: 20px; /* move the whole block to the right */
 }
 
 .language-select {
-  height: 50%;
-  width: 20%;
+  height: 50px;
+  width: 100%;
     /*margin-right: auto;*/
     align-items: right;
     align-content: center;
@@ -218,7 +218,7 @@ code {
     padding: 10px, 10px;
     margin: 5px 5px;
     height: 50%;
-    max-height: 50px;
+    max-height: 100px;
     width: 30%;
     border-radius: 6px;
     cursor: pointer;

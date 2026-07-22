@@ -26,7 +26,8 @@ export default function Header() {
   return (
     <header className="header">
 
-      <h1>{t("name")}</h1>
+      <div><h1>{t("name")}</h1><LanguageSwitcher/></div>
+      
 
       <nav>
 
@@ -42,7 +43,6 @@ export default function Header() {
 
       </nav>
 
-      <LanguageSwitcher/>
     </header>
   );
 }
