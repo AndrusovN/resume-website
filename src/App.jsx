@@ -8,7 +8,7 @@ import MathLife from "./pages/MathLife";
 import Software from "./pages/Software";
 import Teaching from "./pages/Teaching";
 import Activities from "./pages/Activities";
-
+import "./index.css"
 export default function App() {
   return (
     <BrowserRouter>
